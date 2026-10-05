@@ -1,7 +1,7 @@
 {
     "name": "@itsmee_aizat.id/baileys2",
     "type": "module",
-    "version": "1.6.0",
+    "version": "1.6.1",
     "description": "WhatsApp Web API — Aizat Baileys by Aizat. Full LID+JID, all buttons, interactive messages, rich messages, album, latex, and more.",
     "keywords": [
         "automation",
